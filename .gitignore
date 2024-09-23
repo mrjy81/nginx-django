@@ -5,7 +5,8 @@
 __pycache__
 db.sqlite3
 media
-staticfiles
+staticfiles/
+staticfiles/*
 # Backup files # 
 *.bak 
 
@@ -96,6 +97,8 @@ celerybeat-schedule.*
 
 # SageMath parsed files 
 *.sage.py 
+
+
 
 # mkdocs documentation 
 /site 
